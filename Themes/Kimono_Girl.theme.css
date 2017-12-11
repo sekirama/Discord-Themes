@@ -1,4 +1,4 @@
-//META{"name":"Discord_Reborn","description":"A nice sleek transparent theme.","author":"Omniscient","version":"0.0"}*//
+//META{"name":"Kimono_Girl","description":"A nice sleek transparent theme.","author":"Omniscient","version":"0.0"}*//
 
 /* IMPORT CSS FROM GITHUB */
 @import url("https://rawgit.com/0mniscient/Discord-Themes/master/css/Discord%20Reborn.css");
@@ -8,8 +8,8 @@ CHANGE DISCORDS THEME TO DARK THEME IN APPEARANCE SETTINGS FOR THIS THEME TO WOR
 ===== CUSTOMIZABLE COLORS =====
 */
 :root { 
-	--main-color: #007dbd;
-	--hover-color: #03679b;
+	--main-color: #ffd700;
+	--hover-color: #e5e5e0;
  }
  /*
 ===== CUSTOMIZABLE IMAGES =====
@@ -18,7 +18,7 @@ RECOMMENDATIONS: EVERY URL AT THE BOTTOM SHOULD BE THE SAME TO MAKE THE THEME MA
 --------------------------------------------------------------------------------------------------------------------------------------------
 /*Change the url in .app to change the background behind chat */
 
-.app, .callout-backdrop, .userPopout-4pfA0d::before { background-image: url("https://imgur.com/RG03PyX.png") !important; background-size: cover !important; }
+.app, .callout-backdrop, .userPopout-4pfA0d::before { background-image: url(https://images5.alphacoders.com/857/857860.jpg) !important; background-size: cover !important; }
 
  /*
 ---------------------------------------------------------------------------------------------------------------------------------------------
