@@ -8,8 +8,8 @@ CHANGE DISCORDS THEME TO DARK THEME IN APPEARANCE SETTINGS FOR THIS THEME TO WOR
 ===== CUSTOMIZABLE COLORS =====
 */
 :root { 
-	--main-color: #007dbd;
-	--hover-color: #03679b;
+	--main-color: #08457e;
+	--hover-color: #bcd4e6;
  }
  /*
 ===== CUSTOMIZABLE IMAGES =====
@@ -18,7 +18,7 @@ RECOMMENDATIONS: EVERY URL AT THE BOTTOM SHOULD BE THE SAME TO MAKE THE THEME MA
 --------------------------------------------------------------------------------------------------------------------------------------------
 /*Change the url in .app to change the background behind chat */
 
-.app, .callout-backdrop, .userPopout-4pfA0d::before { background-image: url("https://imgur.com/RG03PyX.png") !important; background-size: cover !important; }
+.app, .callout-backdrop, .userPopout-4pfA0d::before { background-image: url(https://static.zerochan.net/Hedwig.full.723663.jpg) !important; background-size: cover !important; }
 
  /*
 ---------------------------------------------------------------------------------------------------------------------------------------------
